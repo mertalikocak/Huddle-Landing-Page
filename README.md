@@ -2,7 +2,7 @@
 
 # Preview Site: https://huddle-landing-page-mak.netlify.app/
 
-![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Huddle landing page with alternating feature blocks coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/twtp2gsjsqshh3eyk4xu.jpg)
 
 ## Welcome! 👋
 
