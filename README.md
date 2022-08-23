@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks
 
-# Web site:
+# Preview Site: https://huddle-landing-page-mak.netlify.app/
 
 ![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)
 
