@@ -266,23 +266,28 @@ footer {
   width: 20px;
   height: 20px;
 }
+footer menu {
+  width: 30%;
+}
 
 footer ul {
   list-style: none;
   display: flex;
+  flex-direction: column;
   width: 100%;
-  gap: 50px;
+  gap: 20px;
   font-size: 16px;
 }
 
 .column-menu {
   display: flex;
-  flex-direction: column;
-  gap: 12px;
+  gap: 5px;
+  width: 100%;
 }
 .column-menu a {
   text-decoration: none;
   color: white;
+  width: 100%;
 }
 
 .social-media {
@@ -332,11 +337,11 @@ iconify-icon {
     width: 100%;
   }
   footer ul {
-    flex-direction: column;
     gap: 20px;
   }
   .column-menu {
     gap: 20px;
+    flex-direction: column;
   }
   .social-media {
     justify-content: center;
